@@ -116,7 +116,9 @@ header p {
 footer {
   font-weight: bold;
   color: #333;
-  margin-bottom: 1rem;
+  text-align: center;
+  line-height: 2;
+  padding: 2rem;
 }
 footer a {
   padding: 0.25rem 0;
