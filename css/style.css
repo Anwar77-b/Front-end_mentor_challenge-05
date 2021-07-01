@@ -133,7 +133,7 @@ footer a::after {
   background-color: var(--Red);
   position: absolute;
   left: 0;
-  bottom: -0.25em;
+  bottom: -0.15em;
   transition: transform 0.3s;
 }
 footer a:hover {
